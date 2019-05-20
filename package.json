@@ -1,0 +1,40 @@
+{
+  "_from": "git+https://github.com/dflourusso/react-native-view-pager.git",
+  "_id": "@ldn0x7dc/react-native-view-pager@0.0.9",
+  "_inBundle": false,
+  "_integrity": "sha1-SV+Xj5CJGTVK7JrCuKrJyAkV2Dw=",
+  "_location": "/@ldn0x7dc/react-native-view-pager",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/dflourusso/react-native-view-pager.git",
+    "rawSpec": "git+https://github.com/dflourusso/react-native-view-pager.git",
+    "saveSpec": "git+https://github.com/dflourusso/react-native-view-pager.git",
+    "fetchSpec": "https://github.com/dflourusso/react-native-view-pager.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/react-native-gallery"
+  ],
+  "_resolved": "git+https://github.com/dflourusso/react-native-view-pager.git#55825f862a596e25f91fc61ab618d11ac4890d91",
+  "_spec": "git+https://github.com/dflourusso/react-native-view-pager.git",
+  "_where": "D:\\Work\\fieldforce\\mobile\\fieldforce",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react-mixin": "^3.0.5",
+    "react-native-gesture-responder": "0.1.1",
+    "react-native-scroller": "0.0.6",
+    "react-timer-mixin": "^0.13.3"
+  },
+  "deprecated": false,
+  "description": "A ListView backed ViewPager component for react-native apps. More flexible than ViewPagerAndroid.",
+  "license": "ISC",
+  "main": "library/ViewPager.js",
+  "name": "@ldn0x7dc/react-native-view-pager",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.9"
+}
